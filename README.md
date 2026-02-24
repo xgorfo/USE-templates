@@ -2,7 +2,7 @@
 ## TEMPLATES FOR SOLVING 27 PROBLEMS OF THE UNIFIED STATE EXAM IN COMPUTER SCIENCE
 ## who performed the task
 
-| № Problem | Author |
+| № Task | Author |
 |:---------:|--------|
 | 2 | [@svetlana-haritonova](https://github.com/svetlana-haritonova) |
 | 5 | [@xgorfo](https://github.com/xgorfo) |
