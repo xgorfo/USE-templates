@@ -18,6 +18,7 @@
 | 19-21 | [@svetlana-haritonova](https://github.com/svetlana-haritonova) & [@xgorfo](https://github.com/xgorfo) |
 | 23 | [@svetlana-haritonova](https://github.com/svetlana-haritonova) |
 | 24 | [@svetlana-haritonova](https://github.com/svetlana-haritonova) |
+| 25 | [@svetlana-haritonova](https://github.com/svetlana-haritonova) & [@xgorfo](https://github.com/xgorfo) |
 | 27 | [@xgorfo](https://github.com/xgorfo) |
 
 ---
