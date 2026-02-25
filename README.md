@@ -14,6 +14,7 @@
 | 15 | [@svetlana-haritonova](https://github.com/svetlana-haritonova) |
 | 16 | [@svetlana-haritonova](https://github.com/svetlana-haritonova) |
 | 17 | [@xgorfo](https://github.com/xgorfo) |
+| 18 | [@xgorfo](https://github.com/xgorfo) |
 | 19-21 | [@svetlana-haritonova](https://github.com/svetlana-haritonova) & [@xgorfo](https://github.com/xgorfo) |
 | 23 | [@svetlana-haritonova](https://github.com/svetlana-haritonova) |
 | 24 | [@svetlana-haritonova](https://github.com/svetlana-haritonova) |
